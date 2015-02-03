@@ -1,0 +1,40 @@
+body{
+	font-family: helvetica;
+	margin: 0;
+}
+
+header{
+	background-image: url(../img/banner-head.jpg);
+}
+
+.first{
+	background-color: #000;
+	float: right;
+	width: 90%;
+	height: 6rem;
+}
+.first a{
+	font-size: 20px;
+	color: #fff;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li{
+	display: inline-block;
+	padding: 1rem 4rem 1rem 3rem;
+}
+
+.info{
+	text-align: center;
+}
+
+.info h1, h2, p{
+	color: #fff;
+}
